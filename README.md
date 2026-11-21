@@ -1,8 +1,8 @@
 # Pharma Support AI Assistant
 
-A small, portfolio-ready prototype of a **retrieval-grounded customer support assistant** for a fictional pharmaceutical company.
+A prototype of a customer support assistant for a pharmaceutical company.
 
-**Built for:** demonstrating transferable skills for an Implementation Engineer role: Python, structured data, information retrieval, LLM integration, testing, and responsible escalation.
+KEYWORDS: Python, structured data, information retrieval, LLM integration, testing, escalation.
 
 > This is an independent learning project, not affiliated with Phluence. All company and product information is fictional. Not intended for medical advice.
 
