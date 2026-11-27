@@ -4,11 +4,11 @@ A prototype of a customer support assistant for a pharmaceutical company.
 
 KEYWORDS: Python, structured data, information retrieval, LLM integration, testing, escalation.
 
-> This is an independent learning project, not affiliated with Phluence. All company and product information is fictional. Not intended for medical advice.
+> This is an independent learning project. 
 
 ## What it does
 
-- Reads a fictional customer-support knowledge base from JSON.
+- Reads a customer-support knowledge base from JSON.
 - Matches user questions to relevant approved support information.
 - Responds with a source reference, or escalates when it cannot find reliable information.
 - Detects medical or adverse-event questions and routes them to a qualified human rather than offering clinical guidance.
