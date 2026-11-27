@@ -99,8 +99,4 @@ tests/test_agent.py
 4. Implement audit logging without storing sensitive personal data.
 5. Build a simple TypeScript front end once comfortable with the basics.
 
-## CV / interview description
-
-> Built a Python prototype of a retrieval-grounded customer support assistant using structured FAQ data, deterministic routing, optional LLM integration, safety escalation, and unit tests. Designed to demonstrate rapid learning and transferable computational problem-solving skills.
-
-**Only claim the features you have actually run and tested.**
+un and tested.**
