@@ -1,0 +1,26 @@
+[
+  {
+    "id": "FAQ-001",
+    "topic": "order tracking",
+    "keywords": ["order", "tracking", "track", "shipment", "delivery", "package"],
+    "answer": "To track a fictional order, sign in to the customer portal and open Orders > Tracking. If tracking is unavailable, contact the support team with your order reference."
+  },
+  {
+    "id": "FAQ-002",
+    "topic": "invoice requests",
+    "keywords": ["invoice", "receipt", "billing", "payment", "bill"],
+    "answer": "To request an invoice, open Billing in the fictional customer portal and select the relevant order. For billing corrections, contact the support team."
+  },
+  {
+    "id": "FAQ-003",
+    "topic": "account access",
+    "keywords": ["login", "account", "password", "sign", "access", "reset"],
+    "answer": "Use the Forgot Password link on the fictional customer portal sign-in page. If you cannot regain access, contact account support."
+  },
+  {
+    "id": "FAQ-004",
+    "topic": "business hours",
+    "keywords": ["hours", "open", "schedule", "availability", "support"],
+    "answer": "For this fictional demo, customer support operates Monday through Friday, 9:00 AM to 5:00 PM."
+  }
+]
